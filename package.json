@@ -1,0 +1,25 @@
+{
+  "name": "coding-assignment-test",
+  "version": "1.0.0",
+  "description": "Hello! We are very happy that you decided to work on our programming homework. It will be fun, we promise! :)\r The idea of the exercise is not to write the perfect production-ready solution, but rather to get a better feeling of your problem solving skills and your coding style.\r This will make the following interviews easier for you since you have already shown your technical skills in a realistic problem.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snigdho386/coding-assignment-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snigdho386/coding-assignment-test/issues"
+  },
+  "homepage": "https://github.com/snigdho386/coding-assignment-test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "router": "^1.3.8"
+  }
+}
